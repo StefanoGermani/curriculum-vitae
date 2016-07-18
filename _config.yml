@@ -13,7 +13,7 @@ author: Stefano Germani
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /curriculum-vitae/
 title: Stefano Germani's Resume
 name: Stefano Germani
 email: Email me
